@@ -5,7 +5,7 @@
 He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-qiyupeng[at]shu.edu.cn
+qiyupeng@shu.edu.cn
 
 #### Education
 M.E., mechanics, ShangHai University, 2022—2025 (expected).\
