@@ -1,4 +1,4 @@
-[![YuPeng1105](https://img.shields.io/badge/YuPengQi99-github-blue?logo=github)](https://github.com/senli1073)
+[![YuPeng1105](https://img.shields.io/badge/YuPengQi99-github-blue?logo=github)](https://github.com/YupengQI99)
 
 He is currently pursuing a master's degree in mechanics at the Institute of Materials Genome Engineering, Shanghai University., China.
 
